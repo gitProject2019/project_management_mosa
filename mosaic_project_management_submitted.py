@@ -499,7 +499,7 @@ class ProjectSolution():
         
 
 if __name__ == '__main__':
-    fn = r'C:\djx_2014_6_3\personal\career\search_2019\recruiters\Tim_Jonas_2019_3_25\Mosaic_ML_exam_2019_4_6\AI_Dataset.xlsx'
+    fn = r'C:\temp\AI_Dataset.xlsx'
     ProjectSolution(fn).analyze_by_random_forest()
     
 #EOF
