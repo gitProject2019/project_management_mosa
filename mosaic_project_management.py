@@ -499,7 +499,7 @@ class ProjectSolution():
         
 
 if __name__ == '__main__':
-    fn = r'C:\temp'
+    fn = r'C:\temp\AI_Dataset.xlsx'
     ProjectSolution(fn).analyze_by_random_forest()
     
 #EOF
